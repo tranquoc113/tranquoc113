@@ -1,13 +1,13 @@
 ### Hi there 👋
 I'm Tran Quoc. Civil engineer, programmer, and entrepreneur looking to make a living solving interesting problems while helping people.
-I'm an educator at [IOG/IOHK](https://iog.io) and I'm the founder of [EBCourses](https://ebcourses.com/), [SearchForMe](https://searchforme.app/), and a few other companies.
+I'm an educator at [Update](https://iog.io) and I'm the founder of [EBCourses](https://ebcourses.com/), [SearchForMe](https://searchforme.app/), and a few other companies.
 
 The quickest way to reach me is through: 
 <div>
-<a href="https://twitter.com/_roberm_">
-  <img style="margin-top:30px" alt="Robertino Martinez | Twitter" width="22px" src="https://raw.githubusercontent.com/IIPatternII/IIPatternII/main/assets/twitter.svg" />
+<a href="https://twitter.com/person_update">
+  <img style="margin-top:30px" alt="Tran Quoc | Twitter" width="22px" src="https://raw.githubusercontent.com/IIPatternII/IIPatternII/main/assets/twitter.svg" />
 </a>
-<a href="mailto:hi@robertinomartinez.com">
+<a href="mailto:tranquoc631@gmail.com">
   <img style="margin-top:30px" alt="Robertino Martinez | Twitter" width="22px" src="https://raw.githubusercontent.com/IIPatternII/IIPatternII/main/assets/email.svg" />
 </a>
 </div>
